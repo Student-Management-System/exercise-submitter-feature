@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.ssehub.teaching.exercise_submitter_feature"
+      label="Exercise Submitter"
+      version="1.0.0.qualifier"
+      provider-name="Software Systems Engineering, University of Hildesheim">
+
+   <description>
+      Exercise Submitter eclipse plug-in for the Java course of the Software Systems Engineering group at the University of Hildesheim.
+   </description>
+
+   <copyright>
+      TODO
+   </copyright>
+
+   <license url="">
+      TODO
+   </license>
+
+   <url>
+      <update label="Java Exercise Submitter" url="https://praktikum.sse.uni-hildesheim.de/eclipse/java"/>
+   </url>
+
+   <plugin
+         id="net.ssehub.teaching.exercise-submitter-eclipse"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
